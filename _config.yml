@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.1559139
+color:
+  saturation: 0.1186607
+  lightness: 0.02551929
+  brandStrength: 0.8596177
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#A2A2A2'
+    - '#7C7C7C'
+    - '#D0D0D0'
+  rhythmicContrast: 0.5464761
+name: Time Stops Here Photos
