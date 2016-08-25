@@ -1,8 +1,20 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.1559139
 color:
-  saturation: 0.1186607
-  lightness: 0.02551929
+  saturation: 0.5310633
   brandStrength: 0.8596177
+  lightness: 0.4940263
   brandColors:
     - '#000000'
     - '#FCFCFC'
@@ -10,5 +22,5 @@ color:
     - '#575757'
     - '#DDDDDD'
   rhythmicContrast: 0.5464761
-typography_spectrum: 0.1559139
+layout_spectrum: 1
 name: Time Stops Here Photos
