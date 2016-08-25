@@ -12,15 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.4414576
 color:
-  saturation: 0.5310633
-  brandStrength: 0.8596177
-  lightness: 0.5931899
+  saturation: 1
+  brandStrength: 0.5011947
+  lightness: 0.4820788
   brandColors:
     - '#000000'
     - '#FCFCFC'
     - '#9C9C9C'
     - '#575757'
     - '#DDDDDD'
-  rhythmicContrast: 0.5464761
+  rhythmicContrast: 1
 layout_spectrum: 1
 name: Time Stops Here Photos
